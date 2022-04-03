@@ -33,11 +33,10 @@ img{
     display: flex;
 }
 
-  img:active {
+img:focus {
     width: 800px;
     height: 600px;
-    }
-
+  }
 .content{
 
     text-align: justify;
